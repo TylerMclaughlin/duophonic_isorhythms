@@ -2,7 +2,7 @@
 
 Source code and results for "Duophonic isorhythms in complementary interlocking Euclidean rhythms and polyrhythms:  enumeration, periodicity, and live-coding",  a paper on theory of musical rhythms and melodic cycles and live-coding, submtted to ICLC 2023.
 
-![circular_plots](https://github.com/TylerMcLaughlin/duophonic_isorhythms/blob/main/iclc_paper/figures/figure1.pdf)
+![circular_plots](https://github.com/TylerMcLaughlin/duophonic_isorhythms/blob/main/iclc_paper/figures/pngs/figure1.png)
 
 # Overview
 
